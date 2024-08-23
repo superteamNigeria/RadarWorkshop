@@ -1,0 +1,3 @@
+[submodule "solana-program-integration"]
+	path = solana-program-integration
+	url = https://github.com/thewuhxyz/radar-workshop-escrow
