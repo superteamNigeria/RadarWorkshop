@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "underdog",
+      "source": "@underdog/v2.0#5vgec2olujb1d8j",
+      "integrity": "sha512-LaSvo9cc/uwynJJbx25F5FdfqGMqGOpolaVX/ebye5hlFa7O2nNY0PyraZ+QyxdK2C3TUrODJZbk9zcl4a6hXA==",
+      "installerVersion": "6.1.2"
+    }
+  ]
+}
